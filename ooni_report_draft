@@ -1,0 +1,80 @@
+
+Country: Cyprus 
+Probed ISPs: Cytanet
+Measurement period: June - July 2015
+
+What is ooni
+https://www.usenix.org/system/files/conference/foci12/foci12-final12.pdf
+
+
+We’re running [[https://ooni.torproject.org/ | OONIprobe]] developed by the Tor project to investigate packet interception through Cypriot ISPs. Ooniprobe collects data about local interference with internet access, and detects surveillance, active bandwidth limitations, and other kinds of network interference. In the past (find more recent information) it was used to reveal that software such as T-Mobile's parental control WebGuard tool also blocked a number of websites including Newgrounds, Cosmopolitan Magazine, and the Tor Project itself as well as to confirm the take-down of news-websites in Palestine (Zhang, 2012).
+
+Ooni collects data on individual computers about local interference with Internet access. The probe, developed by Tor engineers Arturo Filasto and Jacob Appelbaum, detects surveillance, active bandwidth limitations, and other types of network interference. According to OONI's mission statement, "This is a human rights observation project for the Internet. OONI seeks to observe levels of surveillance, censorship, and networked discrimination by networked authoritarian power structures."
+
+We've so far run Ooni probe on Cytanet. 
+Report link:
+
+Our game is to additionally generate reports for:
+    Cablenet
+    DragonNET
+    Logosnet
+    Netway
+    PrimeTel
+    OTEnet Telecom
+    ThunderWorx
+
+Refs
+http://pad.hack66.info/p/observatory
+https://ooni.torproject.org/post/eeep-greek-censorship/
+
+Results
+Cyprus online censorship refs
+[INSERT LINK]
+
+
+Preliminary Bibliography
+
+Legal grounds for State Surveilance refs
+ΑΣΤΥΝΟΜΙΑ ΚΥΠΡΟΥ - Τμήμα Ανιχνεύσεως Εγκλημάτων (Γ’). (n.d.). Retrieved June 26, 2015, from http://www.police.gov.cy/police/police.nsf/All/ACD1089AAF7A228FC22579170025CB0B?OpenDocument 
+
+91(I)/2014 - http://www.cylaw.org/nomoi/arith/2014_1_91.pdf
+
+92(I)/96 -  http://www.cylaw.org/nomoi/indexes/1996_1_92.html
+http://www.cylaw.org/nomoi/arith/1996_1_092.pdf
+
+Cyprus Internet Refs
+Telecommunications in Cyprus. (2015, June 13). In Wikipedia, the free encyclopedia. Retrieved from https://en.wikipedia.org/w/index.php?title=Telecommunications_in_Cyprus&oldid=666756093 
+
+Cyprus Internet Exchange. (2015, April 27). In Wikipedia, the free encyclopedia. Retrieved from https://en.wikipedia.org/w/index.php?title=Cyprus_Internet_Exchange&oldid=659487125 
+
+Cyprus : Internet Usage in Cyprus. (n.d.). Retrieved June 26, 2015, from http://www.cyprusbroadband.net/internet-usage-cyprus.html 
+
+Cyprus Safer Internet Hotline. (2012, February 20). In Wikipedia, the free encyclopedia. Retrieved from https://en.wikipedia.org/w/index.php?title=Cyprus_Safer_Internet_Hotline&oldid=477851764 
+
+Cyberethics. (n.d.). Retrieved June 26, 2015, from http://www.cyberethics.info/cyethics1/ 
+
+Vassiliadou, M. (2007). European Media Governance: National and Regional Dimensions. In G. Terzis (Ed.), The Cypriot Media Landscape (pp. 201–212). Intellect Books. 
+
+Cyprus and Censorship Refs (other)
+Kassem, H. (2002). How the Cairo Times Came to be Published out of Cyprus. In R. Islam (Ed.), The Right to Tell: The Role of Mass Media in Economic Development. World Bank Publications. 
+
+Kaplanian Landscmeeer, A. (2010, August). Clandestine Mail - The Cyprus Route Postscript. The Israel Philatelist - August 2010, 128 – 131. 
+
+Theofilou, S. (n.d.). Cyprus Civil Censorship (1914-1959). Retrieved June 26, 2015, from http://www.philokypros.net/page19/ 
+
+Papadakis, Y., Welz, G., & Peristianis, N. (2006). Disclosure and censorship in divided Cyprus: toward an anthropology of ethnic autism. Divided cyprus: Modernity, history, and an island in conflict, 66-83.
+
+Censorship Refs
+Meserve, S. A., & Pemstein, D. (2012). Google politics: the political determinants of internet censorship.
+
+Commission of the European Communities. (2000). Communication from the Commission to the Council, The European Parliament, the Economic and Social Committee and the Committee of the Regions: Towards a European Research Area. Retrieved from http://www.earth-prints.org/handle/2122/1826 
+
+Filastò, A., & Appelbaum, J. (2012). Ooni: Open observatory of network interference. USENIX FOCI. Retrieved from https://www.usenix.org/system/files/conference/foci12/foci12-final12.pdf 
+
+OONI refs
+Zhang, Q. (2012). Tor Project’s New OONI-Probe Reveals Two Instances of Filtering | OpenNet Initiative. Retrieved from https://opennet.net/blog/2012/05/tor-projects-ooni-tool-receives-positive-feedback 
+
+
+
+
+
